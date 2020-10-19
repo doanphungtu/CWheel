@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "366443797334",
+    "firebase_url": "https://c-wheel.firebaseio.com",
+    "project_id": "c-wheel",
+    "storage_bucket": "c-wheel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366443797334:android:b357d8dd5a601fb3b0d4f7",
+        "android_client_info": {
+          "package_name": "com.C_Wheel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "366443797334-3idj05elblo50duod5rk5spes4bhkbui.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.C_Wheel",
+            "certificate_hash": "f9c8e75d3dbb458076315b6dc135ab3acc19fc48"
+          }
+        },
+        {
+          "client_id": "366443797334-0m1cs4f76vjh26aonbrk4esvk485qb0o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6J4OAZsvpEsDYqVjXlaAH0oxygRPceOE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "366443797334-0m1cs4f76vjh26aonbrk4esvk485qb0o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
